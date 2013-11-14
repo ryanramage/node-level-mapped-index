@@ -13,7 +13,7 @@
       , "url"              : "https://github.com/rvagg/node-level-mapped-index.git"
     }
   , "dependencies"     : {
-        "map-reduce"       : "~4.0.0"
+        "map-reduce"       : "~5.1.0"
       , "xtend"            : "~2.1.1"
       , "through2"         : "~0.2.1"
     }
